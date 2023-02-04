@@ -1,0 +1,1 @@
+pandoc -t gfm --extract-media . "CV_DamodarShanke.docx" -o main.md
