@@ -1,7 +1,8 @@
-**[Damodar Shanke](http://au.linkedin.com/in/damodarshanke)**  
-Sydney, NSW 
-Phone: 0404 930 412 
+## [Damodar Vishwanath Shanke](http://au.linkedin.com/in/damodarshanke)     ([&#8595;](https://raw.githubusercontent.com/dshanke/dshanke.github.io/master/cv/CV_DamodarShanke.docx))
+Sydney, NSW  
+Phone: 0404 930 412  
 Email: <d_shanke@yahoo.com>  
+
 ### AWS DevOps, Systems and Software Engineer  
 <img src="./media/image1.png"
 style="width:0.66667in;height:0.66667in" />
@@ -35,7 +36,7 @@ style="width:0.66389in;height:0.66389in" />
 - **Software Engineer (primarily C++ OOAD development** on both **UNIX**
   and **Windows platform & also worked with java\|C#\|vb.net\|python
   programming languages)** with more than 14 years’ experience in
-  developing leading-edge solutions in security compliance and financial
+  developing leading-edge solutions in security   mpliance and financial
   domain. progressing from problem statement to well-documented design
   and successful implementation there on. Migrating/Porting C++
   Application from Windows to UNIX platform and across inter UNIX
@@ -59,11 +60,14 @@ style="width:0.66389in;height:0.66389in" />
   real-time distributed systems.
 
 
-**Technical Skills**
+### **Technical Skills**
+
 
 ---
-| **DevOps (AWS) & Automation** | **AWS services** (EC2 \|ASG \|ELB \|RDS \|Storage \[ EBS \|EFS \|S3\] \|EC\|SNS \|SES \|CloudFormation \|VPC \|Lambda \|API Gateway \|AWS CLI \| etc.) / Docker / Ansible / Jinja2 templating / Shell Scripting / Working knowledge of Python & Perl, Jenkins, Hashicorp’s Packer for baking AMIs |
+
+| **Area**                      | Expertise, Skills & Tools                                                                                                                                                                                                                                                                         |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **DevOps (AWS) & Automation** | **AWS services** (EC2 \|ASG \|ELB \|RDS \|Storage \[ EBS \|EFS \|S3\] \|EC\|SNS \|SES \|CloudFormation \|VPC \|Lambda \|API Gateway \|AWS CLI \| etc.) / Docker / Ansible / Jinja2 templating / Shell Scripting / Ruby, Python, Perl, Jenkins, Docker, Hashicorp’s Packer for baking AMIs         |
 | **Languages**                 | **C, C++, C++11**, **C++/CLI,** Visual C++, .NET (**C#, VB),** SQL, SQL Stored Procedures, HTML, XML, Maintenance/Enhancements of Ruby, Python, Shell Scripts and Java applications.                                                                                                              |
 | **Libraries / Frameworks**    | **STL**, Windows SDK, Windows API, MFC, .**NET**, SQLite, BSD Socket library, Winsock, open-source packages (ICU, boost, gsoap, tinyxml, openssl), BEA Tuxedo, google test, AWS Development Tools                                                                                                 |
 | **IDE and Tools**             | Visual Studio 2010/12/13, VC++, nMake, msbuild, gcc, gmake, gdb, Source Control (VSS, SVN, CVS, Perforce), doxygen, Coverity (static analysis tool), Valgrind (dynamic analysis tool – memory profiling), Bulls Eye code coverage, Eclipse, Netbeans, SlickEdit                                   |
@@ -72,7 +76,7 @@ style="width:0.66389in;height:0.66389in" />
 | **Databases**                 | **Oracle** 9/10/12, MS SQL 2000/2005/2008 (R2), MySQL, SQLite, Sybase                                                                                                                                                                                                                             |
 
 ---
-[**Awards & Recognition**](http://au.linkedin.com/in/damodarshanke)
+### **Awards & Recognition**
 
 - Received multiple awards at NAB. This also includes an **MVP** (most
   valuable player in last quarter of 2018) and the Quarterly award for
@@ -90,9 +94,9 @@ style="width:0.66389in;height:0.66389in" />
   crucial projects.
 
 ---
-**Career highlights and achievements**
+### **Career highlights and achievements**
 
-- Built the Redshift service stack in ZAZ(Spain) and
+- Built the Redshift service stack in [ZAZ(Spain)](https://aws.amazon.com/blogs/aws/now-open-aws-region-in-spain/) and
   [ZRH(Zurich)](https://aws.amazon.com/blogs/aws/a-new-aws-region-opens-in-switzerland/)
   Region.
 
@@ -133,7 +137,7 @@ style="width:0.66389in;height:0.66389in" />
   compliance & security data which help with auditing the VMware
   infrastructure.
 
-**Professional Experience**
+### **Professional Experience**
 
 ---
 **[Amazon](https://www.amazon.com.au/), Sydney**
@@ -190,7 +194,7 @@ addition to that the handover documents were prepared with adequate
 processes put in place to manage the lifecycle of the insourced systems.
 
 ---
-**[National Australia Bank](https://www.nab.com.au/), SydneY**
+**[National Australia Bank](https://www.nab.com.au/), Sydney**
 
 ---
 **Designation:** Senior Analyst Engineer / Senior Consultant, Cloud Engineering (**Since October 2014**)
@@ -428,7 +432,7 @@ photo id software.*
     variety of vendors.
 
 ---
-**Education**
+### **Education**
 
 - B.E. Computer Engineering, August 2003. R.M.C.E.T, University of
   Mumbai.

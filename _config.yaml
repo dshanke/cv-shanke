@@ -1,0 +1,5 @@
+#Jekyll Configuration
+name: MySpace
+theme: jekyll-theme-slate
+url: "http://dshanke.github.io"
+markdown: GFM
