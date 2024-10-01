@@ -1,20 +1,17 @@
-## [Damodar Vishwanath Shanke](http://au.linkedin.com/in/damodarshanke)     ([&#8595;](https://raw.githubusercontent.com/dshanke/dshanke.github.io/master/cv/CV_DamodarShanke.docx))
-Sydney, NSW  
-Phone: 0404 930 412  
-Email: <d_shanke@yahoo.com>  
+> **[Damodar Shanke](http://au.linkedin.com/in/damodarshanke)**
+> <img src="./media/image1.png"
+> style="width:0.66667in;height:0.66667in" />
+> <img src="./media/image2.png"
+> style="width:0.66389in;height:0.66389in" />
 
-### AWS DevOps, Systems and Software Engineer  
-<img src="./media/image1.png"
-style="width:0.66667in;height:0.66667in" />
-<img src="./media/image2.png"
-style="width:0.66389in;height:0.66389in" />
+**AWS Cloud Engineer / Software Engineer**
 
----
+Sydney, NSW l Phone: 0404 930 412 l <d_shanke@yahoo.com>
 
 - **AWS Cloud Managed DevOps** and **Automation**.
 
-- Experience in **developing/migrating application from on premise onto
-  AWS platform (EC2\|ASG\|ELB\|RDS\|Storage \[EBS\|EFS\|S3\]
+- Experience in **developing/migrating applications from on premises
+  onto AWS platform (EC2\|ASG\|ELB\|RDS\|Storage \[EBS\|EFS\|S3\]
   \|ECS\|SNS\|SES\|CloudFormation\|VPC\|Lambda\|API
   Gateway\|Cloudwatch\|etc.)**
 
@@ -36,7 +33,7 @@ style="width:0.66389in;height:0.66389in" />
 - **Software Engineer (primarily C++ OOAD development** on both **UNIX**
   and **Windows platform & also worked with java\|C#\|vb.net\|python
   programming languages)** with more than 14 years’ experience in
-  developing leading-edge solutions in security   mpliance and financial
+  developing leading-edge solutions in security compliance and financial
   domain. progressing from problem statement to well-documented design
   and successful implementation there on. Migrating/Porting C++
   Application from Windows to UNIX platform and across inter UNIX
@@ -59,15 +56,10 @@ style="width:0.66389in;height:0.66389in" />
   ensuring timely resolutions of such reported issues while supporting
   real-time distributed systems.
 
+**Technical Skills**
 
-### **Technical Skills**
-
-
----
-
-| **Area**                      | Expertise, Skills & Tools                                                                                                                                                                                                                                                                         |
+| **DevOps (AWS) & Automation** | **AWS services** (EC2 \|ASG \|ELB \|RDS \|Storage \[ EBS \|EFS \|S3\] \|EC\|SNS \|SES \|CloudFormation \|VPC \|Lambda \|API Gateway \|AWS CLI \| etc.) / Docker / Ansible / Jinja2 templating / Shell Scripting / Working knowledge of Python & Perl, Jenkins, Hashicorp’s Packer for baking AMIs |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **DevOps (AWS) & Automation** | **AWS services** (EC2 \|ASG \|ELB \|RDS \|Storage \[ EBS \|EFS \|S3\] \|EC\|SNS \|SES \|CloudFormation \|VPC \|Lambda \|API Gateway \|AWS CLI \| etc.) / Docker / Ansible / Jinja2 templating / Shell Scripting / Ruby, Python, Perl, Jenkins, Docker, Hashicorp’s Packer for baking AMIs         |
 | **Languages**                 | **C, C++, C++11**, **C++/CLI,** Visual C++, .NET (**C#, VB),** SQL, SQL Stored Procedures, HTML, XML, Maintenance/Enhancements of Ruby, Python, Shell Scripts and Java applications.                                                                                                              |
 | **Libraries / Frameworks**    | **STL**, Windows SDK, Windows API, MFC, .**NET**, SQLite, BSD Socket library, Winsock, open-source packages (ICU, boost, gsoap, tinyxml, openssl), BEA Tuxedo, google test, AWS Development Tools                                                                                                 |
 | **IDE and Tools**             | Visual Studio 2010/12/13, VC++, nMake, msbuild, gcc, gmake, gdb, Source Control (VSS, SVN, CVS, Perforce), doxygen, Coverity (static analysis tool), Valgrind (dynamic analysis tool – memory profiling), Bulls Eye code coverage, Eclipse, Netbeans, SlickEdit                                   |
@@ -75,8 +67,10 @@ style="width:0.66389in;height:0.66389in" />
 | **Systems**                   | Windows 2003/2008 (R2)/2012/7/8, UNIX (Linux, Solaris SPARC)                                                                                                                                                                                                                                      |
 | **Databases**                 | **Oracle** 9/10/12, MS SQL 2000/2005/2008 (R2), MySQL, SQLite, Sybase                                                                                                                                                                                                                             |
 
----
-### **Awards & Recognition**
+[**Awards**](http://au.linkedin.com/in/damodarshanke)
+
+- Received Kudos rewards for simplifying the design of landing zone for
+  hosting internet facing applications.
 
 - Received multiple awards at NAB. This also includes an **MVP** (most
   valuable player in last quarter of 2018) and the Quarterly award for
@@ -93,10 +87,13 @@ style="width:0.66389in;height:0.66389in" />
   quarter January 2005 to March 2005 for the contributions made on
   crucial projects.
 
----
-### **Career highlights and achievements**
+**Career highlights and achievements**
 
-- Built the Redshift service stack in [ZAZ(Spain)](https://aws.amazon.com/blogs/aws/now-open-aws-region-in-spain/) and
+- Building and enhancing AWS Landing zone with adequate controls to
+  provide secure environments where application teams can host and
+  deploy their application safely.
+
+- Built the Redshift service stack in ZAZ(Spain) and
   [ZRH(Zurich)](https://aws.amazon.com/blogs/aws/a-new-aws-region-opens-in-switzerland/)
   Region.
 
@@ -118,9 +115,9 @@ style="width:0.66389in;height:0.66389in" />
   CSAPI (Content Scanning APIs) component which is the core scanning
   component of Symantec Protection Engine, during a period of resource
   crunch without affecting delivery timelines. While working on this new
-  module, detected and fixed an underlying design issue in existing core
-  modules due to which files were being copied and scanned more than
-  once. This reduced the scan cycles by 30%.
+  module, I detected and fixed an underlying design issue in existing
+  core modules due to which files were being copied and scanned more
+  than once. This reduced the scan cycles by 30%.
 
 - Enhanced performance by 50% in the Enterprise Security Manager’s
   Account information module by implementing local cached with TTL,
@@ -128,7 +125,7 @@ style="width:0.66389in;height:0.66389in" />
 
 - Implemented password hash generation algorithm in Sybase 15.x only by
   looking at the somewhat vague documentation provided by Sybase. The
-  algorithm was used for detecting weak password using dictionary-based
+  algorithm was used for detecting weak passwords using dictionary-based
   cracking.
 
 - Introduced, Conceptualized, and implemented an application module in
@@ -137,18 +134,48 @@ style="width:0.66389in;height:0.66389in" />
   compliance & security data which help with auditing the VMware
   infrastructure.
 
-### **Professional Experience**
+**Professional Experience**
 
----
+**[Insignia Financial](https://www.insigniafinancial.com.au/), Sydney**
+
+**Designation**: Principal Cloud Engineer II (Since July 2023)
+
+• Automated AWS Firewall Manager provisioning, setting up WAF in member
+accounts, centralized logging integration with Secureworks SIEM, and SCP
+deployment to prevent policy tampering.  
+• Designed AWS Landing Zones to host public-facing applications,
+utilizing SCP, NACL, and WAF for automated global and regional resource
+association.  
+• Conducted architecture reviews, where feasible advising teams to use
+self-managed or service-managed StackSets, identifying cost-saving and
+reliability improvement opportunities.  
+• Facilitated AI service adoption by guiding application teams in the
+use of AWS AI tools such as Bedrock, Transcribe, Textract, and
+Rekognition.  
+• Developed granular SSO role mechanisms, allowing application teams to
+independently define and attach policies, reducing dependency on the
+Platform team.  
+• Design and Implement centralized RDS monitoring using AWS OAM,
+integrating automated alerts with ServiceNow, webhook channels, and
+email.  
+• Design & Implement data bunker solution for automated cross-account,
+cross-region backups to meet one of the CPS230 requirements.  
+• Developed serverless bots for cost optimization, performing periodic
+cleanups of stale EBS volumes, residual snapshots, and AMIs, while
+driving Savings Plans and Reserved Instances based on AWS usage patterns
+and recommendations.  
+• Mentoring junior team members to develop solutions aligned with the
+AWS Well-Architected Framework, fostering best practices in architecture
+design.
+
 **[Amazon](https://www.amazon.com.au/), Sydney**
 
----
-**Designation**: System Development Engineer II (Since May 2021)
+**Designation**: System Development Engineer II (May 2021 – June 2023)
 
-I am part of the global AWS Redshift Service Team. Redshift is the
+I was part of the global AWS Redshift Service Team. Redshift is the
 leading cloud data warehouse database for Business Intelligence and
-Analytics. Accustomed to deal with thousands of transactions per second
-in datacenters distributed worldwide in systems designed for high
+Analytics. Accustomed to dealing with thousands of transactions per
+second in datacenters distributed worldwide in systems designed for high
 scalability and fault tolerance.
 
 - The following tasks are performed as part of daily activities:  
@@ -156,7 +183,7 @@ scalability and fault tolerance.
   deployment, Continuous improvement of process via Automation thereby
   Reducing time to market.
 
-- The System development stacks comprises of wide variety of languages
+- The System development stacks comprise of wide variety of languages
   such as Java, Ruby (for infrastructure automation), Python and Shell
   Scripting.
 
@@ -175,29 +202,25 @@ scalability and fault tolerance.
   - Reviews code produced by team members to improve readability,
     consistency, coverage, and best practices
 
----
 [**Cevo**](https://cevo.com.au/), **Sydney**
 
----
 **Designation**: AWS Consultant (Feb 2021 - May 2021)
 
 My role was to help implement solutions using AWS services for Cevo
 clients. I worked at AMP during this tenure.
 
-I was directly involved in helping AMP Business team, insource back
-their Generation 1 Cloud infrastructure stack which was manually managed
-by an external vendor.
+I was directly involved in helping AMP Business team insource back their
+Generation 1 Cloud infrastructure stack which was manually managed by an
+external vendor.
 
 The insourcing included automated management and monitoring of AWS cloud
 resources and improving the permission model of the resources. In
 addition to that the handover documents were prepared with adequate
 processes put in place to manage the lifecycle of the insourced systems.
 
----
-**[National Australia Bank](https://www.nab.com.au/), Sydney**
+**[National Australia Bank](https://www.nab.com.au/), SydneY**
 
----
-**Designation:** Senior Analyst Engineer / Senior Consultant, Cloud Engineering (**Since October 2014**)
+**Designation:** Senior Analyst Engineer (**Since October 2014**)
 
 - Migrating multiple On-Premises Application from to AWS Platform.
 
@@ -227,19 +250,16 @@ processes put in place to manage the lifecycle of the insourced systems.
   TOAD \| SQL \| PL/SQL \| Shell scripting \| ControlM \| Remedy \| AWS
   \[EC2 / RDS\] \| Bea Tuxedo \| AWS EC2 \| AWS S3 \| AWS \*
 
----
 **WMS Gaming, Sydney** – *is a leading global innovator in the design,
 manufacture and distribution of electronic and digital gaming
 entertainment and gaming machines for the casino industry.*
-
----
 
 **Designation:** Senior Software Engineer (**Mar 2014 – October 2014**)
 
 - Developed standalone reel slot games – CoronadosGold, RedEagle,
   FarEastFortuneDeluxe
 
-- Development of reel slot games using C++, proprietary framework and on
+- Development of reel slot games using C++, proprietary framework and
   customized embedded OS.
 
 - Designing interfaces and implementing new modules (libraries).
@@ -252,12 +272,10 @@ entertainment and gaming machines for the casino industry.*
 - **Tools & Libraries:** C/C++ \| Boost \| STL \| Python \| Perl \|
   Slick Edit \| NetBeans \| Make \| gcc \| gdb \| UNIX (CentOS) \| CVS
 
----
 **Symantec CORP, India** – *is a multibillion-dollar American computer
 security, backup and availability solutions Software Corporation
 headquartered in Mountain View, California, United States*
 
----
 **Designation:** Software Engineer / Senior Software Engineer /
 Principal Software Engineer (**Nov 2006 to Jan 2014**)
 
@@ -312,13 +330,11 @@ Principal Software Engineer (**Nov 2006 to Jan 2014**)
   UNIX (Solaris / Linux) \| Windows OS \| Java \| Eclipse \| Perforce \|
   Valgrind \| Coverity
 
----
 **Tech Mahindra Limited, India** – *is a \$2.9 billion company with over
 87,300+ professionals, its proven global delivery models, distinctive IT
 skills and decades of domain expertise help clients realize their
 business aspirations.*
 
----
 **Designation:** Senior Technical Associate
 
 - Worked on dialogue based MFC ‘Bulk Sealer’ application using VC++. The
@@ -328,13 +344,11 @@ business aspirations.*
 - Worked on context sensitive screen capture protection feature using
   Windows APIs and hooking techniques.
 
----
 **iGate (erstwhile PATNI), India** – *is a NASDAQ-listed,
 US-incorporated outsourcing company which provides information
 technology, consulting, and business process outsourcing (BPO)
 services.*
 
----
 **Designation:** Senior Software Engineer
 
 **Tools & Libraries:** C \| C++ \|STL\| VC++\| Rhapsody in C++ \| MFC \|
@@ -418,11 +432,9 @@ control.
 - Added thread safety to the multithreaded application which now took
   care of multiple data stack (images).
 
----
 **Phil Systems, Goa, India** – *a product-based startup which focused on
 photo id software.*
 
----
 **Management Trainee (Programmer),** Mar 2004 to Aug 2004
 
 - **Smart Card Integration into EasyCard Product (Team Size: 1)**
@@ -431,13 +443,10 @@ photo id software.*
     card library could be plugged in to cater to smart card readers from
     variety of vendors.
 
----
-### **Education**
+**Education**
 
 - B.E. Computer Engineering, August 2003. R.M.C.E.T, University of
   Mumbai.
 
 - Diploma in Computer Engineering, October 1998. Agnel Polytechnic, Goa.
   (Goa Board of Technical Education).
-
----
